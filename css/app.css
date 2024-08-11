@@ -1,0 +1,28 @@
+html{
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-color: black;
+}
+
+.container{
+    margin-top: 20rem;
+    width: 30rem;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.content{
+    border: 5px solid white;
+    border-style:ridge;
+    border-radius: 100%;
+    padding: 40px;
+    color: white;
+}
+
+
+
